@@ -5,9 +5,9 @@ import { InfoResponse } from "../types";
 export const arloAndKim1: InfoResponse = {
   apiversion: "1",
   author: "???",
-  color: "#FF0000",
-  head: "pixel",
-  tail: "pixel",
+  color: "#FF5500",
+  head: "evil",
+  tail: "bolt",
 };
 
 export const arloAndKim2: InfoResponse = {
